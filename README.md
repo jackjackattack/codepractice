@@ -1,3 +1,3 @@
 # codepractice
 
-This website is just a learning tool for git, and some web development.
+This website is just a learning tool for me to learn git, and some web development.
